@@ -29,4 +29,6 @@
 - [react-timeago](https://www.npmjs.com/package/react-timeago) - is a very simple component that takes a date prop and returns a span with live updating date in a time-ago format.
   <br>
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+
+Stepzen makes it really easy to call to postgresql db from supabase
+
